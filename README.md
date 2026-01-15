@@ -1,16 +1,12 @@
-## Hi there 👋
+## About me
+Retraining in epidemiology, focusing on cancer epidemiology with a secondary interest in tropical and infectious diseases.
 
-<!--
-**ttakeuchi918/ttakeuchi918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- Epidemiology (methods, causal inference)
+- Statistics (foundations)
+- R (relearning)
+- GIS (QGIS)
+- English (professional working proficiency)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+Reviewing core epidemiological concepts and rebuilding quantitative foundations for research-oriented work.
